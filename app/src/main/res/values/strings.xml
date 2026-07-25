@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Click Omar</string>
+    <string name="accessibility_service_description">Click Omar يستخدم هذه الخدمة للنقر التلقائي المتكرر على نقطة محددة أو على نص محدد على الشاشة بناءً على إعداداتك.</string>
+</resources>
