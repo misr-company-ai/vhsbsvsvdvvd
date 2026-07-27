@@ -11,8 +11,8 @@ android {
         applicationId "com.clickomar.app"
         minSdk 24
         targetSdk 34
-        versionCode 1
-        versionName "1.0"
+        versionCode 2.0
+        versionName "2.0(27.7.2026)omar.dv"
     }
 
     buildTypes {
